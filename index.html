@@ -20,22 +20,28 @@
   </head>
   <body>
     <!-- page main header -->
-    <header>
-      <div>
+    <header id="header">
+      <nav>
         <ul>
-          <li>Logo</li>
-          <li>Demos</li>
-          <li>About</li>
-          <li>Blog</li>
-          <li>Pages</li>
-          <li>Contact</li>
+          <li><a href="#home"> Logo </a></li>
+          <li><a href="#About"> Demos </a></li>
+          <li><a href="#Blog"> About </a></li>
+          <li><a href="#Pages"> Blog </a></li>
+          <li><a href="#Contact"> Pages </a></li>
         </ul>
-      </div>
 
-      <div>
-        <button>Sign In</button>
-        <button>Get Started Free</button>
-      </div>
+          <!-- <div>
+            <button>Sign In</button>
+            <button>Get Started Free</button>
+          </div> -->
+      </nav>
+
+      <button class="toggle-button">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+
     </header>
 
     <!-- page main content -->
@@ -350,8 +356,6 @@
         <div>No ads. No trails. No commitments</div>
       </section>
 
-      <!-- Footer  -->
-      <footer>
         <div>
           <div>
             <div>
@@ -362,7 +366,7 @@
               </p>
               <button>Start Live Chat</button>
             </div>
-            <div>
+            <div id="footer-urls">
               <ul>
                 <li>
                   <h3>Company</h3>

@@ -1,0 +1,2352 @@
+[
+  {
+    "Name": "No. 5",
+    "Brand": "Chanel",
+    "Launched": 1921,
+    "Gender": "Feminine",
+    "Perfumer": "Ernest Beaux",
+    "Notes": "Ylang-Ylang / Neroli / Aldehydes",
+    "Min_pH": 5.15,
+    "Max_pH": 5.77
+  },
+  {
+    "Name": "No. 22",
+    "Brand": "Chanel",
+    "Launched": 1922,
+    "Gender": "Feminine",
+    "Perfumer": "Ernest Beaux",
+    "Notes": "Aldehydes",
+    "Min_pH": 5.29,
+    "Max_pH": 6.59
+  },
+  {
+    "Name": "No. 19",
+    "Brand": "Chanel",
+    "Launched": 1971,
+    "Gender": "Feminine",
+    "Perfumer": "Henri Robert",
+    "Notes": "Galbanum / Bergamot / Neroli / Hyacinth",
+    "Min_pH": 4.11,
+    "Max_pH": 5.77
+  },
+  {
+    "Name": "Cristalle Eau de Toilette",
+    "Brand": "Chanel",
+    "Launched": 1974,
+    "Gender": "Feminine",
+    "Perfumer": "Henri Robert",
+    "Notes": "Sicilian Lemon / Bergamot",
+    "Min_pH": 5.13,
+    "Max_pH": 6.63
+  },
+  {
+    "Name": "Coco",
+    "Brand": "Chanel",
+    "Launched": 1984,
+    "Gender": "Feminine",
+    "Perfumer": "Jacques Polge",
+    "Notes": "Angelica / Mimosa / Frangipani / Mandarin",
+    "Min_pH": 4.92,
+    "Max_pH": 6.64
+  },
+  {
+    "Name": "Coco Mademoiselle",
+    "Brand": "Chanel",
+    "Launched": 2001,
+    "Gender": "Feminine",
+    "Perfumer": "Jacques Polge",
+    "Notes": "Orange / Bergamot / Grapefruit",
+    "Min_pH": 4.08,
+    "Max_pH": 5.66
+  },
+  {
+    "Name": "Cristalle Eau de Parfum",
+    "Brand": "Chanel",
+    "Launched": 1993,
+    "Gender": "Feminine",
+    "Perfumer": "Jacques Polge",
+    "Notes": "Mandarin / Peach / Lily of the Valley / Sicilian Lemon / Bergamot",
+    "Min_pH": 4.4,
+    "Max_pH": 6.26
+  },
+  {
+    "Name": "Allure Homme",
+    "Brand": "Chanel",
+    "Launched": 1999,
+    "Gender": "Masculine",
+    "Perfumer": "Jacques Polge",
+    "Notes": "Bergamot / Mandarin / Citron Zest",
+    "Min_pH": 5.49,
+    "Max_pH": 5.67
+  },
+  {
+    "Name": "Antaeus",
+    "Brand": "Chanel",
+    "Launched": 1981,
+    "Gender": "Masculine",
+    "Perfumer": "Jacques Polge",
+    "Notes": "Clary Sage / Myrtle",
+    "Min_pH": 5.2,
+    "Max_pH": 6.12
+  },
+  {
+    "Name": "Chanel Pour Monsieur",
+    "Brand": "Chanel",
+    "Launched": 1955,
+    "Gender": "Masculine",
+    "Perfumer": "Henri Robert",
+    "Notes": "Neroli / Lemon / Petitgrain.",
+    "Min_pH": 5.26,
+    "Max_pH": 6.43
+  },
+  {
+    "Name": "Chanel Pour Monsieur Concentrée",
+    "Brand": "Chanel",
+    "Launched": 1989,
+    "Gender": "Masculine",
+    "Perfumer": "Jacques Polge",
+    "Notes": "Mandarine / Lavender / Petitgrain",
+    "Min_pH": 4.35,
+    "Max_pH": 6.97
+  },
+  {
+    "Name": "Égoïste / L'Égoïste",
+    "Brand": "Chanel",
+    "Launched": 1990,
+    "Gender": "Masculine",
+    "Perfumer": "Jacques Polge",
+    "Notes": "Sicilian Tangerine / Brazilian Rosewood.",
+    "Min_pH": 4.15,
+    "Max_pH": 5.91
+  },
+  {
+    "Name": "Platinum Égoïste",
+    "Brand": "Chanel",
+    "Launched": 1993,
+    "Gender": "Masculine",
+    "Perfumer": "Jacques Polge / Francois Demachy",
+    "Notes": "Lavender / Rosemary / Petitgrain",
+    "Min_pH": 5.02,
+    "Max_pH": 6.58
+  },
+  {
+    "Name": "Allure Homme Sport",
+    "Brand": "Chanel",
+    "Launched": 2004,
+    "Gender": "Masculine",
+    "Perfumer": "Jacques Polge",
+    "Notes": "Aldehydes / Mandarin / Orange / Aquatic Note",
+    "Min_pH": 4.13,
+    "Max_pH": 6.46
+  },
+  {
+    "Name": "Allure Sensuelle",
+    "Brand": "Chanel",
+    "Launched": 2005,
+    "Gender": "Feminine",
+    "Perfumer": "Jacques Polge",
+    "Notes": "Bergamot / Mandarin Orange / Pink Pepper",
+    "Min_pH": 4.34,
+    "Max_pH": 5.9
+  },
+  {
+    "Name": "Chance Eau Fraîche",
+    "Brand": "Chanel",
+    "Launched": 2007,
+    "Gender": "Feminine",
+    "Perfumer": "Jacques Polge",
+    "Notes": "Citron / Water Hyacinth",
+    "Min_pH": 5.22,
+    "Max_pH": 5.91
+  },
+  {
+    "Name": "No. 46",
+    "Brand": "Chanel",
+    "Launched": "Unknown",
+    "Gender": "Feminine",
+    "Perfumer": "",
+    "Notes": "Bergamot / Orange / Neroli",
+    "Min_pH": 4.44,
+    "Max_pH": 6.98
+  },
+  {
+    "Name": "Chance Eau Tendre",
+    "Brand": "Chanel",
+    "Launched": 2010,
+    "Gender": "Feminine",
+    "Perfumer": "Jacques Polge",
+    "Notes": "Grapefruit / Quince",
+    "Min_pH": 4.71,
+    "Max_pH": 6.27
+  },
+  {
+    "Name": "No. 19 Poudré",
+    "Brand": "Chanel",
+    "Launched": 2011,
+    "Gender": "Feminine",
+    "Perfumer": "Jacques Polge",
+    "Notes": "Mandarin / Neroli",
+    "Min_pH": 4.31,
+    "Max_pH": 5.61
+  },
+  {
+    "Name": "Coco Mademoiselle L'Extrait",
+    "Brand": "Chanel",
+    "Launched": 2012,
+    "Gender": "Feminine",
+    "Perfumer": "Jacques Polge",
+    "Notes": "Sicilian orange / Calabrian bergamot",
+    "Min_pH": 5.25,
+    "Max_pH": 6.98
+  },
+  {
+    "Name": "Coco Noir",
+    "Brand": "Chanel",
+    "Launched": 2012,
+    "Gender": "Feminine",
+    "Perfumer": "Jacques Polge",
+    "Notes": "Grapefruit / Bergamot",
+    "Min_pH": 4.29,
+    "Max_pH": 6.3
+  },
+  {
+    "Name": 1932,
+    "Brand": "Chanel",
+    "Launched": 2013,
+    "Gender": "Feminine",
+    "Perfumer": "Jacques Polge",
+    "Notes": "Aldehydes / Bergamot / Neroli",
+    "Min_pH": 5.08,
+    "Max_pH": 6.58
+  },
+  {
+    "Name": "Miss Dior",
+    "Brand": "Christian Dior",
+    "Launched": 1947,
+    "Gender": "Feminine",
+    "Perfumer": "Jean Carles / Serge Heftler Louiche",
+    "Notes": "Galbanum",
+    "Min_pH": 5.5,
+    "Max_pH": 6.68
+  },
+  {
+    "Name": "Diorissimo",
+    "Brand": "Christian Dior",
+    "Launched": 1956,
+    "Gender": "Feminine",
+    "Perfumer": "Edmond Roudnitska",
+    "Notes": "Muguet / Ylang-Ylang",
+    "Min_pH": 4.24,
+    "Max_pH": 6.68
+  },
+  {
+    "Name": "Dioressence",
+    "Brand": "Christian Dior",
+    "Launched": 1969,
+    "Gender": "Feminine",
+    "Perfumer": "Guy Robert",
+    "Notes": "Violet / Rosebud",
+    "Min_pH": 4.12,
+    "Max_pH": 6.44
+  },
+  {
+    "Name": "Diorella",
+    "Brand": "Christian Dior",
+    "Launched": 1972,
+    "Gender": "Feminine",
+    "Perfumer": "Edmond Roudnitska",
+    "Notes": "Sicilian Lemon / Peach / Asil / Italian Bergamot / Melon / Green Notes",
+    "Min_pH": 4.52,
+    "Max_pH": 6.72
+  },
+  {
+    "Name": "Dolce Vita",
+    "Brand": "Christian Dior",
+    "Launched": 1995,
+    "Gender": "Feminine",
+    "Perfumer": "Pierre Bourdon",
+    "Notes": "Rose / Magnolia / Muguet",
+    "Min_pH": 4.47,
+    "Max_pH": 6.88
+  },
+  {
+    "Name": "Eau de Dolce Vita",
+    "Brand": "Christian Dior",
+    "Launched": 1998,
+    "Gender": "Feminine",
+    "Perfumer": "",
+    "Notes": "Citrus notes / Pear blossom",
+    "Min_pH": 4.72,
+    "Max_pH": 6.44
+  },
+  {
+    "Name": "Hypnotic Poison",
+    "Brand": "Christian Dior",
+    "Launched": 1998,
+    "Gender": "Feminine",
+    "Perfumer": "Annick Menardo",
+    "Notes": "Caraway / Bitter Almond",
+    "Min_pH": 4.67,
+    "Max_pH": 5.56
+  },
+  {
+    "Name": "Dune pour Homme",
+    "Brand": "Christian Dior",
+    "Launched": 1997,
+    "Gender": "Masculine",
+    "Perfumer": "Olivier Cresp",
+    "Notes": "Fig Leaves / Basil Leaves / Blackcurrant Leaves / Mandarin",
+    "Min_pH": 5.5,
+    "Max_pH": 6.08
+  },
+  {
+    "Name": "Eau Sauvage",
+    "Brand": "Christian Dior",
+    "Launched": 1966,
+    "Gender": "Masculine",
+    "Perfumer": "Edmond Roudnitska",
+    "Notes": "Lemon / Rosemary",
+    "Min_pH": 4.15,
+    "Max_pH": 6.82
+  },
+  {
+    "Name": "Eau Sauvage Extrême",
+    "Brand": "Christian Dior",
+    "Launched": 1982,
+    "Gender": "Masculine",
+    "Perfumer": "",
+    "Notes": "Lavender / Rosemary",
+    "Min_pH": 5.44,
+    "Max_pH": 6.77
+  },
+  {
+    "Name": "Fahrenheit",
+    "Brand": "Christian Dior",
+    "Launched": 1988,
+    "Gender": "Masculine",
+    "Perfumer": "Jean-Louis Sieuzac / Maurice Roger",
+    "Notes": "Hawthorn / Honeysuckle",
+    "Min_pH": 4.09,
+    "Max_pH": 6.19
+  },
+  {
+    "Name": "Higher",
+    "Brand": "Christian Dior",
+    "Launched": 2001,
+    "Gender": "Masculine",
+    "Perfumer": "Olivier Gillotin / Olivier Pescheux",
+    "Notes": "Citrus notes / Basil / Pear",
+    "Min_pH": 4.91,
+    "Max_pH": 6.87
+  },
+  {
+    "Name": "Jules",
+    "Brand": "Christian Dior",
+    "Launched": 1980,
+    "Gender": "Masculine",
+    "Perfumer": "",
+    "Notes": "Galbanum",
+    "Min_pH": 4.28,
+    "Max_pH": 6.86
+  },
+  {
+    "Name": "Fahrenheit 0 Degrés",
+    "Brand": "Christian Dior",
+    "Launched": 2002,
+    "Gender": "Masculine",
+    "Perfumer": "Bertrand Duchaufour",
+    "Notes": "Citrus",
+    "Min_pH": 4.78,
+    "Max_pH": 6.49
+  },
+  {
+    "Name": "Higher Black",
+    "Brand": "Christian Dior",
+    "Launched": 2002,
+    "Gender": "Masculine",
+    "Perfumer": "Olivier Gillotin / Olivier Pescheux",
+    "Notes": "Citrus notes / Basil / Pear",
+    "Min_pH": 4.79,
+    "Max_pH": 6.65
+  },
+  {
+    "Name": "Dior Addict Eau Fraîche",
+    "Brand": "Christian Dior",
+    "Launched": 2004,
+    "Gender": "Feminine",
+    "Perfumer": "Thierry Wasser",
+    "Notes": "Mandarin / Mandarin Leaf / Vanilla / Bergamot",
+    "Min_pH": 4.22,
+    "Max_pH": 5.99
+  },
+  {
+    "Name": "Dior Addict Dior Twist\"",
+    "Brand": "Christian Dior",
+    "Launched": 2004,
+    "Gender": "Feminine",
+    "Perfumer": "",
+    "Notes": "Mandarin Leaf / Silk Tree Flower",
+    "Min_pH": 4.77,
+    "Max_pH": 6.92
+  },
+  {
+    "Name": "Forever and Ever Dior",
+    "Brand": "Christian Dior",
+    "Launched": 2006,
+    "Gender": "Feminine",
+    "Perfumer": "",
+    "Notes": "Ivy leaves / Freesia petals / Water jasmine",
+    "Min_pH": 5.02,
+    "Max_pH": 5.62
+  },
+  {
+    "Name": "Fahrenheit 32",
+    "Brand": "Christian Dior",
+    "Launched": 2007,
+    "Gender": "Masculine",
+    "Perfumer": "Francois Demachy",
+    "Notes": "Orange Blossom",
+    "Min_pH": 4.28,
+    "Max_pH": 6.08
+  },
+  {
+    "Name": "Midnight Poison",
+    "Brand": "Christian Dior",
+    "Launched": 2007,
+    "Gender": "Feminine",
+    "Perfumer": "",
+    "Notes": "Bergamot / Orange",
+    "Min_pH": 4.36,
+    "Max_pH": 6.49
+  },
+  {
+    "Name": "Miss Dior Cherie Eau de Printemps",
+    "Brand": "Christian Dior",
+    "Launched": 2008,
+    "Gender": "Feminine",
+    "Perfumer": "",
+    "Notes": "Blood Orange Essence / Calabrain Bergamot",
+    "Min_pH": 4.14,
+    "Max_pH": 6.38
+  },
+  {
+    "Name": "Bronze Sweet Sun",
+    "Brand": "Christian Dior",
+    "Launched": "Unknown",
+    "Gender": "Feminine",
+    "Perfumer": "",
+    "Notes": "Mandarin / Orange",
+    "Min_pH": 4.83,
+    "Max_pH": 5.95
+  },
+  {
+    "Name": "Hypnotic Poison Eau Sensuelle",
+    "Brand": "Christian Dior",
+    "Launched": 2011,
+    "Gender": "Feminine",
+    "Perfumer": "",
+    "Notes": "Ylang-Ylang / Orange Blossom",
+    "Min_pH": 5.05,
+    "Max_pH": 6.32
+  },
+  {
+    "Name": "Granville",
+    "Brand": "Christian Dior",
+    "Launched": 2010,
+    "Gender": "Unisex",
+    "Perfumer": "François Demachy",
+    "Notes": "Lemon / Mandarin / Thyme",
+    "Min_pH": 5.22,
+    "Max_pH": 5.76
+  },
+  {
+    "Name": "Escale aux Marquises",
+    "Brand": "Christian Dior",
+    "Launched": 2010,
+    "Gender": "Unisex",
+    "Perfumer": "François Demachy",
+    "Notes": "Blood orange / Pink pepper / Cardamom / Pepper / Amalfi lemon / Tiare flower",
+    "Min_pH": 4.77,
+    "Max_pH": 5.91
+  },
+  {
+    "Name": "Eau Sauvage Extrême (new / Intense)",
+    "Brand": "Christian Dior",
+    "Launched": 2010,
+    "Gender": "Masculine",
+    "Perfumer": "",
+    "Notes": "Sicilian Lemon",
+    "Min_pH": 4.87,
+    "Max_pH": 6.89
+  },
+  {
+    "Name": "Miss Dior Eau Fraîche",
+    "Brand": "Christian Dior",
+    "Launched": 2012,
+    "Gender": "Feminine",
+    "Perfumer": "François Demachy",
+    "Notes": "Bergamot / Fresh Notes",
+    "Min_pH": 4.8,
+    "Max_pH": 6.63
+  },
+  {
+    "Name": "Aqua Fahrenheit",
+    "Brand": "Christian Dior",
+    "Launched": 2011,
+    "Gender": "Masculine",
+    "Perfumer": "François Demachy",
+    "Notes": "Citruses / tangerine / Grapefruit",
+    "Min_pH": 5.48,
+    "Max_pH": 6.13
+  },
+  {
+    "Name": "Dior Addict to Life",
+    "Brand": "Christian Dior",
+    "Launched": 2011,
+    "Gender": "Feminine",
+    "Perfumer": "François Demachy",
+    "Notes": "Pomegranate / Raspberry / Peach",
+    "Min_pH": 4.03,
+    "Max_pH": 6.06
+  },
+  {
+    "Name": "Eau Sauvage Parfum",
+    "Brand": "Christian Dior",
+    "Launched": 2012,
+    "Gender": "Masculine",
+    "Perfumer": "François Demachy",
+    "Notes": "Bergamot",
+    "Min_pH": 4.97,
+    "Max_pH": 6.35
+  },
+  {
+    "Name": "Escale a Parati",
+    "Brand": "Christian Dior",
+    "Launched": 2012,
+    "Gender": "Unisex",
+    "Perfumer": "François Demachy",
+    "Notes": "Bitter orange / Lemon / Petitgrain",
+    "Min_pH": 4.13,
+    "Max_pH": 6.74
+  },
+  {
+    "Name": "Grand Bal",
+    "Brand": "Christian Dior",
+    "Launched": 2012,
+    "Gender": "Feminine",
+    "Perfumer": "François Demachy",
+    "Notes": "Bergamot / Jasmine",
+    "Min_pH": 5.16,
+    "Max_pH": 6.05
+  },
+  {
+    "Name": "Oud Ispahan",
+    "Brand": "Christian Dior",
+    "Launched": 2012,
+    "Gender": "Unisex",
+    "Perfumer": "François Demachy",
+    "Notes": "Labdanum",
+    "Min_pH": 5.28,
+    "Max_pH": 6.39
+  },
+  {
+    "Name": "Dior Addict Eau Sensuelle",
+    "Brand": "Christian Dior",
+    "Launched": 2012,
+    "Gender": "Feminine",
+    "Perfumer": "François Demachy",
+    "Notes": "Rose",
+    "Min_pH": 5.27,
+    "Max_pH": 5.51
+  },
+  {
+    "Name": "Miss Dior Le Parfum",
+    "Brand": "Christian Dior",
+    "Launched": 2012,
+    "Gender": "Feminine",
+    "Perfumer": "François Demachy",
+    "Notes": "Mandarin",
+    "Min_pH": 5.33,
+    "Max_pH": 6.71
+  },
+  {
+    "Name": "Hypnotic Poison Eau Secrète",
+    "Brand": "Christian Dior",
+    "Launched": 2013,
+    "Gender": "Feminine",
+    "Perfumer": "François Demachy",
+    "Notes": "Sicilian mandarin / Orange / Calabrian bergamot",
+    "Min_pH": 5.43,
+    "Max_pH": 5.64
+  },
+  {
+    "Name": "Miss Dior Eau De Toilette",
+    "Brand": "Christian Dior",
+    "Launched": 2013,
+    "Gender": "Feminine",
+    "Perfumer": "François Demachy",
+    "Notes": "Tunisian neroli",
+    "Min_pH": 4.72,
+    "Max_pH": 6.5
+  },
+  {
+    "Name": "Noir Epices",
+    "Brand": "Editions de Parfums Frederic Malle",
+    "Launched": 2000,
+    "Gender": "Unisex",
+    "Perfumer": "Michel Roudnitska",
+    "Notes": "Orange / Rose / Geranium",
+    "Min_pH": 4.04,
+    "Max_pH": 5.74
+  },
+  {
+    "Name": "Le Parfum de Thérèse",
+    "Brand": "Editions de Parfums Frederic Malle",
+    "Launched": 2000,
+    "Gender": "Feminine",
+    "Perfumer": "Edmond Roudnitska",
+    "Notes": "Mandarin / Melon / Jasmine / Pepper.",
+    "Min_pH": 5.12,
+    "Max_pH": 5.95
+  },
+  {
+    "Name": "Iris Poudre",
+    "Brand": "Editions de Parfums Frederic Malle",
+    "Launched": 2000,
+    "Gender": "Unisex",
+    "Perfumer": "Pierre Bourdon",
+    "Notes": "Bergamot / Orange / Rosewood / Ylang-Ylang / Carnation.",
+    "Min_pH": 5.01,
+    "Max_pH": 6.23
+  },
+  {
+    "Name": "Musc Ravageur",
+    "Brand": "Editions de Parfums Frederic Malle",
+    "Launched": 2000,
+    "Gender": "Unisex",
+    "Perfumer": "Maurice Roucel",
+    "Notes": "Lavender / Bergamot",
+    "Min_pH": 4.55,
+    "Max_pH": 5.93
+  },
+  {
+    "Name": "Lys Méditerranée",
+    "Brand": "Editions de Parfums Frederic Malle",
+    "Launched": 2000,
+    "Gender": "Unisex",
+    "Perfumer": "Edouard Flechier",
+    "Notes": "Ginger Lily / Lily of the Valley (Muguet)",
+    "Min_pH": 4.61,
+    "Max_pH": 6.62
+  },
+  {
+    "Name": "Une Fleur de Cassie",
+    "Brand": "Editions de Parfums Frederic Malle",
+    "Launched": 2000,
+    "Gender": "Unisex",
+    "Perfumer": "Dominique Ropion",
+    "Notes": "Cassie / Mimosa / Jasmine / Clove / Cumin / Bergamot",
+    "Min_pH": 4.56,
+    "Max_pH": 6.71
+  },
+  {
+    "Name": "Dans Tes Bras",
+    "Brand": "Editions de Parfums Frederic Malle",
+    "Launched": 2008,
+    "Gender": "Feminine",
+    "Perfumer": "Maurice Roucel",
+    "Notes": "Bergamot / Clove / Violet / Jasmine",
+    "Min_pH": 4.32,
+    "Max_pH": 5.85
+  },
+  {
+    "Name": "Géranium pour Monsieur",
+    "Brand": "Editions de Parfums Frederic Malle",
+    "Launched": 2009,
+    "Gender": "Masculine",
+    "Perfumer": "Dominique Ropion",
+    "Notes": "Mint / Pepper mint / Geranium / Rhodinol / Anethol / Floralzone",
+    "Min_pH": 4.55,
+    "Max_pH": 5.59
+  },
+  {
+    "Name": "Eau de Givenchy",
+    "Brand": "Givenchy",
+    "Launched": 1980,
+    "Gender": "Feminine",
+    "Perfumer": "",
+    "Notes": "Bergamot / Spearmint / Fruity notes",
+    "Min_pH": 5.45,
+    "Max_pH": 6.91
+  },
+  {
+    "Name": "Extravagance D'Amarige",
+    "Brand": "Givenchy",
+    "Launched": 1998,
+    "Gender": "Feminine",
+    "Perfumer": "Michel Gerard",
+    "Notes": "Green Mandarin / Tagete / Pink Peppercorn",
+    "Min_pH": 4.19,
+    "Max_pH": 6.82
+  },
+  {
+    "Name": "Givenchy Gentleman",
+    "Brand": "Givenchy",
+    "Launched": 1974,
+    "Gender": "Masculine",
+    "Perfumer": "Paul Lèger",
+    "Notes": "Tarragon / Cinnamon",
+    "Min_pH": 4.3,
+    "Max_pH": 6.26
+  },
+  {
+    "Name": "Insensé",
+    "Brand": "Givenchy",
+    "Launched": 1993,
+    "Gender": "Masculine",
+    "Perfumer": "Daniel Moliere",
+    "Notes": "Blackcurrant / Mandarin / Basil.",
+    "Min_pH": 5.19,
+    "Max_pH": 6.42
+  },
+  {
+    "Name": "Insensé Ultramarine",
+    "Brand": "Givenchy",
+    "Launched": 1994,
+    "Gender": "Masculine",
+    "Perfumer": "",
+    "Notes": "Water fruits / Galbanum.",
+    "Min_pH": 4.61,
+    "Max_pH": 6.23
+  },
+  {
+    "Name": "Monsieur de Givenchy",
+    "Brand": "Givenchy",
+    "Launched": 1959,
+    "Gender": "Masculine",
+    "Perfumer": "",
+    "Notes": "Hesperidian Notes",
+    "Min_pH": 4.4,
+    "Max_pH": 6.04
+  },
+  {
+    "Name": "Pi",
+    "Brand": "Givenchy",
+    "Launched": 1999,
+    "Gender": "Masculine",
+    "Perfumer": "Alberto Morillas",
+    "Notes": "Citrus / Aromatic / Green / Floral",
+    "Min_pH": 4.86,
+    "Max_pH": 6.25
+  },
+  {
+    "Name": "Pi Fraiche",
+    "Brand": "Givenchy",
+    "Launched": 2001,
+    "Gender": "Masculine",
+    "Perfumer": "Alberto Morillas",
+    "Notes": "Tangerine / Jasmine /",
+    "Min_pH": 4.69,
+    "Max_pH": 6.51
+  },
+  {
+    "Name": "Xeryus",
+    "Brand": "Givenchy",
+    "Launched": 1986,
+    "Gender": "Masculine",
+    "Perfumer": "",
+    "Notes": "Grapefruit / Artemisia",
+    "Min_pH": 4.48,
+    "Max_pH": 6.67
+  },
+  {
+    "Name": "Xeryus Rouge",
+    "Brand": "Givenchy",
+    "Launched": 1995,
+    "Gender": "Masculine",
+    "Perfumer": "Annick Menardo",
+    "Notes": "Kumquat / Cactus Flesh / Tarragon.",
+    "Min_pH": 4.09,
+    "Max_pH": 6.47
+  },
+  {
+    "Name": "Givenchy pour Homme",
+    "Brand": "Givenchy",
+    "Launched": 2002,
+    "Gender": "Masculine",
+    "Perfumer": "Alberto Morillas / Elias Ermenedis",
+    "Notes": "Cool Grapefruit / Mandarin / Violet",
+    "Min_pH": 4.89,
+    "Max_pH": 6.54
+  },
+  {
+    "Name": "Into the Blue",
+    "Brand": "Givenchy",
+    "Launched": 2002,
+    "Gender": "Unisex",
+    "Perfumer": "Mark Buxton",
+    "Notes": "Winter Bergamot / Nettle Flower /",
+    "Min_pH": 4.25,
+    "Max_pH": 6.91
+  },
+  {
+    "Name": "Insensé Ultramarine Aromatic Ocean - Morning Surf",
+    "Brand": "Givenchy",
+    "Launched": 2002,
+    "Gender": "Masculine",
+    "Perfumer": "",
+    "Notes": "Citrus",
+    "Min_pH": 4.99,
+    "Max_pH": 6.3
+  },
+  {
+    "Name": "Insensé Ultramarine Aromatic Ocean - Evening Dream",
+    "Brand": "Givenchy",
+    "Launched": 2002,
+    "Gender": "Masculine",
+    "Perfumer": "",
+    "Notes": "Citrus",
+    "Min_pH": 4.17,
+    "Max_pH": 5.56
+  },
+  {
+    "Name": "Insensé Ultramarine Aromatic Ocean - Midnight Swim",
+    "Brand": "Givenchy",
+    "Launched": 2002,
+    "Gender": "Masculine",
+    "Perfumer": "",
+    "Notes": "Cinnamon",
+    "Min_pH": 4.48,
+    "Max_pH": 6.71
+  },
+  {
+    "Name": "Givenchy pour Homme Blue Label",
+    "Brand": "Givenchy",
+    "Launched": 2004,
+    "Gender": "Masculine",
+    "Perfumer": "",
+    "Notes": "Grapefruit / Hedione / Bergamot",
+    "Min_pH": 5.23,
+    "Max_pH": 6.31
+  },
+  {
+    "Name": "Eau Torride",
+    "Brand": "Givenchy",
+    "Launched": 2002,
+    "Gender": "Unisex",
+    "Perfumer": "",
+    "Notes": "Mandarin / Bergamot / Lemon",
+    "Min_pH": 4.38,
+    "Max_pH": 5.63
+  },
+  {
+    "Name": "Ange ou Démon",
+    "Brand": "Givenchy",
+    "Launched": 2006,
+    "Gender": "Feminine",
+    "Perfumer": "Françoise Donche / Olivier Cresp / Jean-Pierre Bethouart",
+    "Notes": "White thyme / Mandarin  from Calabria and Essence of Saffron",
+    "Min_pH": 4.6,
+    "Max_pH": 6.38
+  },
+  {
+    "Name": "Pi Neo",
+    "Brand": "Givenchy",
+    "Launched": 2008,
+    "Gender": "Masculine",
+    "Perfumer": "Antoine Lie",
+    "Notes": "Bergamot / Mandarin",
+    "Min_pH": 5.34,
+    "Max_pH": 6.54
+  },
+  {
+    "Name": "Ange ou Démon Le Secret",
+    "Brand": "Givenchy",
+    "Launched": 2009,
+    "Gender": "Feminine",
+    "Perfumer": "Bernard Ellena",
+    "Notes": "Italian winter lemon / Cranberry / Green tea leaves",
+    "Min_pH": 4.47,
+    "Max_pH": 6.32
+  },
+  {
+    "Name": "Play for Her",
+    "Brand": "Givenchy",
+    "Launched": 2010,
+    "Gender": "Feminine",
+    "Perfumer": "Emilie Coppermann / Lucas Sieuzac / Françoise Donche",
+    "Notes": "Pink peppercorns / White peach / Bergamot / Sweet pea",
+    "Min_pH": 4.19,
+    "Max_pH": 6.92
+  },
+  {
+    "Name": "Play Intense for Her",
+    "Brand": "Givenchy",
+    "Launched": 2010,
+    "Gender": "Feminine",
+    "Perfumer": "Emilie Coppermann / Lucas Sieuzac / Françoise Donche",
+    "Notes": "Pink peppercorns / Orange flower",
+    "Min_pH": 4.55,
+    "Max_pH": 5.87
+  },
+  {
+    "Name": "Le Bouquet Absolu",
+    "Brand": "Givenchy",
+    "Launched": 2011,
+    "Gender": "Feminine",
+    "Perfumer": "",
+    "Notes": "Bergamot / Neroli / Wild berries",
+    "Min_pH": 4.44,
+    "Max_pH": 5.79
+  },
+  {
+    "Name": "Dahlia Noir",
+    "Brand": "Givenchy",
+    "Launched": 2011,
+    "Gender": "Feminine",
+    "Perfumer": "",
+    "Notes": "Pink pepper / Mandarin / Mimosa",
+    "Min_pH": 4.96,
+    "Max_pH": 6.01
+  },
+  {
+    "Name": "Very Irrésistible Givenchy Electric Rose",
+    "Brand": "Givenchy",
+    "Launched": 2012,
+    "Gender": "Feminine",
+    "Perfumer": "",
+    "Notes": "Blueberry / Lemon / Basil / Verbena",
+    "Min_pH": 4.32,
+    "Max_pH": 6.62
+  },
+  {
+    "Name": "Very Irrésistible L'Intense",
+    "Brand": "Givenchy",
+    "Launched": 2011,
+    "Gender": "Feminine",
+    "Perfumer": "",
+    "Notes": "Plum",
+    "Min_pH": 5.34,
+    "Max_pH": 5.56
+  },
+  {
+    "Name": "Givenchy Play Sport",
+    "Brand": "Givenchy",
+    "Launched": 2012,
+    "Gender": "Masculine",
+    "Perfumer": "",
+    "Notes": "Bergamot / Ginger / Mint / Lemon leaf",
+    "Min_pH": 5.44,
+    "Max_pH": 6.31
+  },
+  {
+    "Name": "Ange ou Démon Tendre",
+    "Brand": "Givenchy",
+    "Launched": 2008,
+    "Gender": "Feminine",
+    "Perfumer": "",
+    "Notes": "Mandarin / Lily of the Valley / Orange Blossom",
+    "Min_pH": 4.15,
+    "Max_pH": 6.15
+  },
+  {
+    "Name": "Very Irrésistible Tropical Paradise",
+    "Brand": "Givenchy",
+    "Launched": 2011,
+    "Gender": "Feminine",
+    "Perfumer": "",
+    "Notes": "Anise / Mint",
+    "Min_pH": 5.06,
+    "Max_pH": 6.92
+  },
+  {
+    "Name": "Givenchy Play Summer Vibrations",
+    "Brand": "Givenchy",
+    "Launched": 2010,
+    "Gender": "Masculine",
+    "Perfumer": "",
+    "Notes": "Coriander leaf / Citrus",
+    "Min_pH": 4.6,
+    "Max_pH": 5.6
+  },
+  {
+    "Name": "Dahlia Noir Eau de Toilette",
+    "Brand": "Givenchy",
+    "Launched": 2012,
+    "Gender": "Feminine",
+    "Perfumer": "François Demachy",
+    "Notes": "Mandarin / Peach / Lemon",
+    "Min_pH": 4.5,
+    "Max_pH": 5.94
+  },
+  {
+    "Name": "Eaudemoiselle de Givenchy Bois de Oud",
+    "Brand": "Givenchy",
+    "Launched": 2012,
+    "Gender": "Feminine",
+    "Perfumer": "",
+    "Notes": "Mandarin",
+    "Min_pH": 5.2,
+    "Max_pH": 5.96
+  },
+  {
+    "Name": "Very Irrésistible Poesie d'un Parfum d'Hiver",
+    "Brand": "Givenchy",
+    "Launched": 2011,
+    "Gender": "Feminine",
+    "Perfumer": "",
+    "Notes": "Gingerbread / Honey / Candied orange",
+    "Min_pH": 4.88,
+    "Max_pH": 6.33
+  },
+  {
+    "Name": "Eaudemoiselle de Givenchy Eau Florale",
+    "Brand": "Givenchy",
+    "Launched": 2012,
+    "Gender": "Feminine",
+    "Perfumer": "",
+    "Notes": "Pear / Pink grapefruit",
+    "Min_pH": 4.32,
+    "Max_pH": 6.95
+  },
+  {
+    "Name": "Very Irrésistible Sensual",
+    "Brand": "Givenchy",
+    "Launched": 2005,
+    "Gender": "Feminine",
+    "Perfumer": "Dominique Ropion",
+    "Notes": "Peony",
+    "Min_pH": 5,
+    "Max_pH": 5.58
+  },
+  {
+    "Name": "Gentlemen Only",
+    "Brand": "Givenchy",
+    "Launched": 2013,
+    "Gender": "Masculine",
+    "Perfumer": "",
+    "Notes": "Birch leaf / Green mandarin / Nutmeg / Pink pepper",
+    "Min_pH": 4.46,
+    "Max_pH": 6.38
+  },
+  {
+    "Name": "Dahlia Noir L'Eau",
+    "Brand": "Givenchy",
+    "Launched": 2013,
+    "Gender": "Feminine",
+    "Perfumer": "François Demachy",
+    "Notes": "Citrus / Neroli",
+    "Min_pH": 4.44,
+    "Max_pH": 5.57
+  },
+  {
+    "Name": "Bloom",
+    "Brand": "Givenchy",
+    "Launched": 2013,
+    "Gender": "Feminine",
+    "Perfumer": "",
+    "Notes": "Raspberry / Caviar",
+    "Min_pH": 4.1,
+    "Max_pH": 5.51
+  },
+  {
+    "Name": "Après L'ondée",
+    "Brand": "Guerlain",
+    "Launched": 1906,
+    "Gender": "Feminine",
+    "Perfumer": "Jacques Guerlain",
+    "Notes": "Aniseed / Hesperidic notes / Rose",
+    "Min_pH": 5.23,
+    "Max_pH": 5.86
+  },
+  {
+    "Name": "Mitsouko",
+    "Brand": "Guerlain",
+    "Launched": 1919,
+    "Gender": "Feminine",
+    "Perfumer": "Jacques Guerlain",
+    "Notes": "Bergamot / Rose",
+    "Min_pH": 4.88,
+    "Max_pH": 6.77
+  },
+  {
+    "Name": "L'Heure Bleue",
+    "Brand": "Guerlain",
+    "Launched": 1912,
+    "Gender": "Feminine",
+    "Perfumer": "Jacques Guerlain",
+    "Notes": "Neroli",
+    "Min_pH": 5.19,
+    "Max_pH": 6.66
+  },
+  {
+    "Name": "Liù",
+    "Brand": "Guerlain",
+    "Launched": 1929,
+    "Gender": "Feminine",
+    "Perfumer": "Jacques Guerlain",
+    "Notes": "Aldehydes / Rose",
+    "Min_pH": 5.18,
+    "Max_pH": 6.4
+  },
+  {
+    "Name": "Vol de Nuit",
+    "Brand": "Guerlain",
+    "Launched": 1933,
+    "Gender": "Feminine",
+    "Perfumer": "Jacques Guerlain",
+    "Notes": "Hesperedic Notes / Narcissus",
+    "Min_pH": 5.25,
+    "Max_pH": 5.97
+  },
+  {
+    "Name": "Shalimar",
+    "Brand": "Guerlain",
+    "Launched": 1925,
+    "Gender": "Feminine",
+    "Perfumer": "Jacques Guerlain",
+    "Notes": "Bergamot",
+    "Min_pH": 4.31,
+    "Max_pH": 6.73
+  },
+  {
+    "Name": "Chant DArômes",
+    "Brand": "Guerlain",
+    "Launched": 1962,
+    "Gender": "Feminine",
+    "Perfumer": "Jean Paul Guerlain",
+    "Notes": "Hesperidic notes / Honeysuckle",
+    "Min_pH": 4.19,
+    "Max_pH": 6.68
+  },
+  {
+    "Name": "Chamade",
+    "Brand": "Guerlain",
+    "Launched": 1969,
+    "Gender": "Feminine",
+    "Perfumer": "Jean Paul Guerlain",
+    "Notes": "Hyacinth / Jasmine",
+    "Min_pH": 4.31,
+    "Max_pH": 6.39
+  },
+  {
+    "Name": "Parure",
+    "Brand": "Guerlain",
+    "Launched": 1975,
+    "Gender": "Feminine",
+    "Perfumer": "Jean Paul Guerlain",
+    "Notes": "Hesperidic notes / Plum",
+    "Min_pH": 4.03,
+    "Max_pH": 5.53
+  },
+  {
+    "Name": "Nahéma",
+    "Brand": "Guerlain",
+    "Launched": 1979,
+    "Gender": "Feminine",
+    "Perfumer": "Jean Paul Guerlain",
+    "Notes": "Rose",
+    "Min_pH": 4.54,
+    "Max_pH": 5.61
+  },
+  {
+    "Name": "Samsara",
+    "Brand": "Guerlain",
+    "Launched": 1989,
+    "Gender": "Feminine",
+    "Perfumer": "Jean Paul Guerlain",
+    "Notes": "Jasmine / Ylang Ylang",
+    "Min_pH": 4.77,
+    "Max_pH": 6.23
+  },
+  {
+    "Name": "Petit Guerlain",
+    "Brand": "Guerlain",
+    "Launched": 1994,
+    "Gender": "Feminine",
+    "Perfumer": "Jean Paul Guerlain",
+    "Notes": "Lavender / Hesperidic Notes",
+    "Min_pH": 5,
+    "Max_pH": 6.3
+  },
+  {
+    "Name": "Aqua Allegoria Flora Nerolia",
+    "Brand": "Guerlain",
+    "Launched": 2000,
+    "Gender": "Feminine",
+    "Perfumer": "Jean Paul Guerlain",
+    "Notes": "Neroli / Petitgrain",
+    "Min_pH": 4.21,
+    "Max_pH": 5.98
+  },
+  {
+    "Name": "Metalys / Metallica",
+    "Brand": "Guerlain",
+    "Launched": 2000,
+    "Gender": "Feminine",
+    "Perfumer": "Jean Paul Guerlain",
+    "Notes": "Vanilla",
+    "Min_pH": 4.22,
+    "Max_pH": 6.47
+  },
+  {
+    "Name": "Mayotte / Mahora",
+    "Brand": "Guerlain",
+    "Launched": 2000,
+    "Gender": "Feminine",
+    "Perfumer": "Jean Paul Guerlain",
+    "Notes": "Green and Fresh",
+    "Min_pH": 4.51,
+    "Max_pH": 6.01
+  },
+  {
+    "Name": "Philtre d'Amour",
+    "Brand": "Guerlain",
+    "Launched": 2000,
+    "Gender": "Feminine",
+    "Perfumer": "Jean Paul Guerlain",
+    "Notes": "Lemon / Bergamot / Verbana",
+    "Min_pH": 4.2,
+    "Max_pH": 5.91
+  },
+  {
+    "Name": "Aqua Allegoria Gentiana",
+    "Brand": "Guerlain",
+    "Launched": 2001,
+    "Gender": "Feminine",
+    "Perfumer": "",
+    "Notes": "Bergamot / Grapefruit / Limette / Lime",
+    "Min_pH": 4.13,
+    "Max_pH": 5.9
+  },
+  {
+    "Name": "Champs-Elysées",
+    "Brand": "Guerlain",
+    "Launched": 1904,
+    "Gender": "Feminine",
+    "Perfumer": "Jacques Guerlain",
+    "Notes": "Mimosa Leaf / Almond Blossom / Rose",
+    "Min_pH": 5.13,
+    "Max_pH": 6.2
+  },
+  {
+    "Name": "Aqua Allegoria Herba Fresca",
+    "Brand": "Guerlain",
+    "Launched": 1999,
+    "Gender": "Unisex",
+    "Perfumer": "Mathilde Laurent",
+    "Notes": "Clover Leaf / Italian Lemon",
+    "Min_pH": 4.95,
+    "Max_pH": 6.49
+  },
+  {
+    "Name": "Aqua Allegoria Lavande Velours",
+    "Brand": "Guerlain",
+    "Launched": 1999,
+    "Gender": "Unisex",
+    "Perfumer": "Jean Paul Guerlain",
+    "Notes": "Lavender",
+    "Min_pH": 4.45,
+    "Max_pH": 6.37
+  },
+  {
+    "Name": "Aqua Allegoria Pamplelune",
+    "Brand": "Guerlain",
+    "Launched": 1999,
+    "Gender": "Unisex",
+    "Perfumer": "Mathilde Laurent",
+    "Notes": "Acidulous Grapefruit / Bergamot",
+    "Min_pH": 4.82,
+    "Max_pH": 5.55
+  },
+  {
+    "Name": "Aqua Allegoria Winter Delice",
+    "Brand": "Guerlain",
+    "Launched": 2000,
+    "Gender": "Unisex",
+    "Perfumer": "",
+    "Notes": "Fir Trees",
+    "Min_pH": 4.67,
+    "Max_pH": 5.53
+  },
+  {
+    "Name": "Coriolan",
+    "Brand": "Guerlain",
+    "Launched": 1998,
+    "Gender": "Masculine",
+    "Perfumer": "Jean Paul Guerlain",
+    "Notes": "Lemon tree leaves / Bergamot",
+    "Min_pH": 5.41,
+    "Max_pH": 6.47
+  },
+  {
+    "Name": "Derby",
+    "Brand": "Guerlain",
+    "Launched": 1985,
+    "Gender": "Masculine",
+    "Perfumer": "Jean Paul Guerlain",
+    "Notes": "Bergamot / Lemon / Artemisia / Peppermint",
+    "Min_pH": 4.43,
+    "Max_pH": 5.83
+  },
+  {
+    "Name": "Eau de Guerlain",
+    "Brand": "Guerlain",
+    "Launched": 1974,
+    "Gender": "Unisex",
+    "Perfumer": "Jean Paul Guerlain",
+    "Notes": "Lemon / Bergamot / Basil / Petitgrain / Caraway",
+    "Min_pH": 4.88,
+    "Max_pH": 6.69
+  },
+  {
+    "Name": "Eau de Cologne Impériale",
+    "Brand": "Guerlain",
+    "Launched": 1853,
+    "Gender": "Unisex",
+    "Perfumer": "Pierre-François-Pascal Guerlain",
+    "Notes": "Bergamot / Neroli / Verbena / Lemon / Orange",
+    "Min_pH": 4.69,
+    "Max_pH": 6.49
+  },
+  {
+    "Name": "Habit Rouge",
+    "Brand": "Guerlain",
+    "Launched": 1965,
+    "Gender": "Masculine",
+    "Perfumer": "Jean Paul Guerlain",
+    "Notes": "Bergamot / Lemon / Rosewood / Basil / Pimento",
+    "Min_pH": 4.51,
+    "Max_pH": 6.24
+  },
+  {
+    "Name": "Héritage",
+    "Brand": "Guerlain",
+    "Launched": 1992,
+    "Gender": "Masculine",
+    "Perfumer": "Jean Paul Guerlain",
+    "Notes": "Lemon / Lavender / Bergamot",
+    "Min_pH": 4.02,
+    "Max_pH": 6.38
+  },
+  {
+    "Name": "Jicky",
+    "Brand": "Guerlain",
+    "Launched": 1889,
+    "Gender": "Unisex",
+    "Perfumer": "Aimé Guerlain",
+    "Notes": "Lemon / Mandarin / Bergamot / Rosewood",
+    "Min_pH": 4.27,
+    "Max_pH": 6.21
+  },
+  {
+    "Name": "Vetiver",
+    "Brand": "Guerlain",
+    "Launched": 1961,
+    "Gender": "Masculine",
+    "Perfumer": "Jean Paul Guerlain",
+    "Notes": "Bergamot / Lemon / Mandarin / Neroli / Coriander",
+    "Min_pH": 5.32,
+    "Max_pH": 6.36
+  },
+  {
+    "Name": "Vetiver Eau Glacée",
+    "Brand": "Guerlain",
+    "Launched": 2004,
+    "Gender": "Masculine",
+    "Perfumer": "Jean Paul Guerlain",
+    "Notes": "Lime / Orange / Bergamot",
+    "Min_pH": 5.23,
+    "Max_pH": 5.94
+  },
+  {
+    "Name": "Love is all",
+    "Brand": "Guerlain",
+    "Launched": 2005,
+    "Gender": "Feminine",
+    "Perfumer": "",
+    "Notes": "Mandarin / Pink pepper",
+    "Min_pH": 4.74,
+    "Max_pH": 6.73
+  },
+  {
+    "Name": "Lights of Champs-Élysées",
+    "Brand": "Guerlain",
+    "Launched": 2006,
+    "Gender": "Feminine",
+    "Perfumer": "",
+    "Notes": "Almond flower / Pink peppercorns",
+    "Min_pH": 5.45,
+    "Max_pH": 6.3
+  },
+  {
+    "Name": "Vetiver Extreme",
+    "Brand": "Guerlain",
+    "Launched": 2006,
+    "Gender": "Masculine",
+    "Perfumer": "",
+    "Notes": "Lemon / Bergamot / Artemisia",
+    "Min_pH": 4.23,
+    "Max_pH": 6.42
+  },
+  {
+    "Name": "L'Instant d'un Eté pour Homme",
+    "Brand": "Guerlain",
+    "Launched": 2006,
+    "Gender": "Masculine",
+    "Perfumer": "",
+    "Notes": "Neroli / Star Anise crystals / Yellow and green lemon / Grapefruit / Pink pepper / Elem",
+    "Min_pH": 4.37,
+    "Max_pH": 6.56
+  },
+  {
+    "Name": "L'Instant d'un Eté",
+    "Brand": "Guerlain",
+    "Launched": 2006,
+    "Gender": "Feminine",
+    "Perfumer": "",
+    "Notes": "Grapefruit / Bitter Orange",
+    "Min_pH": 4.7,
+    "Max_pH": 6.02
+  },
+  {
+    "Name": "Nuit d'Amour",
+    "Brand": "Guerlain",
+    "Launched": 2006,
+    "Gender": "Feminine",
+    "Perfumer": "",
+    "Notes": "Bay Rose / Aldehydes",
+    "Min_pH": 4.67,
+    "Max_pH": 6.49
+  },
+  {
+    "Name": "My Insolence",
+    "Brand": "Guerlain",
+    "Launched": 2007,
+    "Gender": "Feminine",
+    "Perfumer": "",
+    "Notes": "Raspberry",
+    "Min_pH": 4.67,
+    "Max_pH": 5.78
+  },
+  {
+    "Name": "Cruel Gardenia",
+    "Brand": "Guerlain",
+    "Launched": 2008,
+    "Gender": "Feminine",
+    "Perfumer": "Randa Hammami / Sylvaine Delacourte",
+    "Notes": "Peach / Neroli / Damask Rose",
+    "Min_pH": 5.08,
+    "Max_pH": 6.81
+  },
+  {
+    "Name": "Les Elixirs Charnels - Oriental Brûlant",
+    "Brand": "Guerlain",
+    "Launched": 2008,
+    "Gender": "Feminine",
+    "Perfumer": "Christine Nagel",
+    "Notes": "White almond",
+    "Min_pH": 5.37,
+    "Max_pH": 6.17
+  },
+  {
+    "Name": "Les Secrets de Sophie",
+    "Brand": "Guerlain",
+    "Launched": 2009,
+    "Gender": "Feminine",
+    "Perfumer": "Jean Paul Guerlain",
+    "Notes": "Petitgrain / Bigarade Orange / Tunisian Neroli / Bergamot",
+    "Min_pH": 4.54,
+    "Max_pH": 5.92
+  },
+  {
+    "Name": "Idylle",
+    "Brand": "Guerlain",
+    "Launched": 2009,
+    "Gender": "Feminine",
+    "Perfumer": "Thierry Wasser",
+    "Notes": "Lily of the valley / Lilac / Peony / Freesia / Jasmine",
+    "Min_pH": 4.71,
+    "Max_pH": 5.79
+  },
+  {
+    "Name": "Arsène Lupin Dandy",
+    "Brand": "Guerlain",
+    "Launched": 2010,
+    "Gender": "Masculine",
+    "Perfumer": "Jean Paul Guerlain",
+    "Notes": "Bergamot / Bigarade / Pink peppercorn / Cardamom",
+    "Min_pH": 5.19,
+    "Max_pH": 5.7
+  },
+  {
+    "Name": "Shalimar Parfum Initial",
+    "Brand": "Guerlain",
+    "Launched": 2011,
+    "Gender": "Feminine",
+    "Perfumer": "Thierry Wasser",
+    "Notes": "Bergamot / Orange / Green notes",
+    "Min_pH": 5.36,
+    "Max_pH": 5.58
+  },
+  {
+    "Name": "Une Ville, un Parfum : Moscow",
+    "Brand": "Guerlain",
+    "Launched": 2009,
+    "Gender": "Unisex",
+    "Perfumer": "",
+    "Notes": "Pine needles / Absinthe / Plum / Redcurrant / Bergamot / Lemon",
+    "Min_pH": 4.32,
+    "Max_pH": 5.9
+  },
+  {
+    "Name": "Une Ville, un Parfum : New York",
+    "Brand": "Guerlain",
+    "Launched": 2009,
+    "Gender": "Unisex",
+    "Perfumer": "",
+    "Notes": "Bergamot",
+    "Min_pH": 4.86,
+    "Max_pH": 6.12
+  },
+  {
+    "Name": "Une Ville, un Parfum : Tokyo",
+    "Brand": "Guerlain",
+    "Launched": 2009,
+    "Gender": "Unisex",
+    "Perfumer": "",
+    "Notes": "Green tea",
+    "Min_pH": 4.29,
+    "Max_pH": 6.28
+  },
+  {
+    "Name": "Une Ville, un Parfum : London",
+    "Brand": "Guerlain",
+    "Launched": 2011,
+    "Gender": "Unisex",
+    "Perfumer": "",
+    "Notes": "Bergamot / Rhubarb / Grapefruit",
+    "Min_pH": 4.38,
+    "Max_pH": 6.26
+  },
+  {
+    "Name": "Aqua Allegoria Flora Nymphéa",
+    "Brand": "Guerlain",
+    "Launched": 2010,
+    "Gender": "Feminine",
+    "Perfumer": "Thierry Wasser",
+    "Notes": "Citrus notes / Green accents / Wild Berries",
+    "Min_pH": 4.68,
+    "Max_pH": 6.41
+  },
+  {
+    "Name": "Cherry Blossom Delight",
+    "Brand": "Guerlain",
+    "Launched": 2008,
+    "Gender": "Feminine",
+    "Perfumer": "Jean Paul Guerlain",
+    "Notes": "Bergamot",
+    "Min_pH": 4.34,
+    "Max_pH": 5.67
+  },
+  {
+    "Name": "L'Instant Magic Elixir",
+    "Brand": "Guerlain",
+    "Launched": 2009,
+    "Gender": "Feminine",
+    "Perfumer": "",
+    "Notes": "Bergamot / Flowery notes",
+    "Min_pH": 4.36,
+    "Max_pH": 5.85
+  },
+  {
+    "Name": "Les Elixirs Charnels - Boisé Torride",
+    "Brand": "Guerlain",
+    "Launched": 2009,
+    "Gender": "Feminine",
+    "Perfumer": "Christine Nagel",
+    "Notes": "Bergamot / Tangerine / Pink berries",
+    "Min_pH": 4.5,
+    "Max_pH": 5.76
+  },
+  {
+    "Name": "Mon Precieux Nectar",
+    "Brand": "Guerlain",
+    "Launched": 2009,
+    "Gender": "Feminine",
+    "Perfumer": "Randa Hammami / Sylvaine Delacourte",
+    "Notes": "Petitgrain / Bitter almond",
+    "Min_pH": 4.55,
+    "Max_pH": 6.84
+  },
+  {
+    "Name": "Shalimar Ode à la Vanille",
+    "Brand": "Guerlain",
+    "Launched": 2010,
+    "Gender": "Feminine",
+    "Perfumer": "Thierry Wasser",
+    "Notes": "Lemon / Bergamot",
+    "Min_pH": 5.03,
+    "Max_pH": 6.86
+  },
+  {
+    "Name": "Aqua Allegoria Jasminora",
+    "Brand": "Guerlain",
+    "Launched": 2011,
+    "Gender": "Feminine",
+    "Perfumer": "Thierry Wasser",
+    "Notes": "Galbanum / Bergamot",
+    "Min_pH": 5.25,
+    "Max_pH": 5.69
+  },
+  {
+    "Name": "Myrrhe et Délires",
+    "Brand": "Guerlain",
+    "Launched": 2012,
+    "Gender": "Unisex",
+    "Perfumer": "Thierry Wasser",
+    "Notes": "Citrus / Pepper",
+    "Min_pH": 5.48,
+    "Max_pH": 6.98
+  },
+  {
+    "Name": "Guerlain Homme L'Eau Boisée",
+    "Brand": "Guerlain",
+    "Launched": 2012,
+    "Gender": "Masculine",
+    "Perfumer": "Thierry Wasser",
+    "Notes": "Lime / Mint",
+    "Min_pH": 4.09,
+    "Max_pH": 5.93
+  },
+  {
+    "Name": "Habit Rouge LEau",
+    "Brand": "Guerlain",
+    "Launched": 2011,
+    "Gender": "Masculine",
+    "Perfumer": "Thierry Wasser",
+    "Notes": "Seville Orange / Hazelnut",
+    "Min_pH": 4.58,
+    "Max_pH": 5.53
+  },
+  {
+    "Name": "Idylle Eau Sublime",
+    "Brand": "Guerlain",
+    "Launched": 2011,
+    "Gender": "Feminine",
+    "Perfumer": "Thierry Wasser",
+    "Notes": "Rosewater / Lychee",
+    "Min_pH": 4.08,
+    "Max_pH": 6.25
+  },
+  {
+    "Name": "Shalimar Parfum Initial L'Eau",
+    "Brand": "Guerlain",
+    "Launched": 2012,
+    "Gender": "Feminine",
+    "Perfumer": "Thierry Wasser",
+    "Notes": "Orange / Bergamot / Grapefruit / Neroli",
+    "Min_pH": 4.95,
+    "Max_pH": 6.39
+  },
+  {
+    "Name": "Shalimar Parfum Initial L'Eau",
+    "Brand": "Guerlain",
+    "Launched": 2012,
+    "Gender": "Feminine",
+    "Perfumer": "Thierry Wasser",
+    "Notes": "Orange / Bergamot / Grapefruit / Neroli",
+    "Min_pH": 5.18,
+    "Max_pH": 6.11
+  },
+  {
+    "Name": "Les Elixirs Charnels - Floral Romantique",
+    "Brand": "Guerlain",
+    "Launched": 2011,
+    "Gender": "Feminine",
+    "Perfumer": "Thierry Wasser",
+    "Notes": "Mandarin / Orange / Jasmine",
+    "Min_pH": 5.05,
+    "Max_pH": 5.66
+  },
+  {
+    "Name": "La Petite Robe Noire 2012",
+    "Brand": "Guerlain",
+    "Launched": 2012,
+    "Gender": "Feminine",
+    "Perfumer": "Thierry Wasser",
+    "Notes": "Black cherry / Bergamot / Red berries / Almond",
+    "Min_pH": 5.21,
+    "Max_pH": 5.77
+  },
+  {
+    "Name": "Eau de Shalimar",
+    "Brand": "Guerlain",
+    "Launched": 2008,
+    "Gender": "Feminine",
+    "Perfumer": "Jean Paul Guerlain",
+    "Notes": "Orange / Bergamot / Lime",
+    "Min_pH": 4.89,
+    "Max_pH": 5.89
+  },
+  {
+    "Name": "Muguet 2012",
+    "Brand": "Guerlain",
+    "Launched": 2012,
+    "Gender": "Feminine",
+    "Perfumer": "Thierry Wasser",
+    "Notes": "Green Notes",
+    "Min_pH": 5.11,
+    "Max_pH": 6.04
+  },
+  {
+    "Name": "Les Déserts d'Orient - Encens Mythique d'Orient",
+    "Brand": "Guerlain",
+    "Launched": 2012,
+    "Gender": "Unisex",
+    "Perfumer": "Thierry Wasser",
+    "Notes": "Aldehydes / Rose / Saffron",
+    "Min_pH": 4.58,
+    "Max_pH": 5.86
+  },
+  {
+    "Name": "Les Déserts d'Orient - Rose Nacrée du Desert",
+    "Brand": "Guerlain",
+    "Launched": 2012,
+    "Gender": "Unisex",
+    "Perfumer": "Thierry Wasser",
+    "Notes": "Patchouli / Saffron",
+    "Min_pH": 4.01,
+    "Max_pH": 6.65
+  },
+  {
+    "Name": "Les Déserts d'Orient - Songe d'un Bois d'Été",
+    "Brand": "Guerlain",
+    "Launched": 2012,
+    "Gender": "Unisex",
+    "Perfumer": "Thierry Wasser",
+    "Notes": "Laurel / Neroli",
+    "Min_pH": 5.21,
+    "Max_pH": 6.59
+  },
+  {
+    "Name": "Le Bolshoï Saison 2012 La Traviata",
+    "Brand": "Guerlain",
+    "Launched": 2012,
+    "Gender": "Feminine",
+    "Perfumer": "",
+    "Notes": "Bergamot / Petitgrain / Orange / Neroli",
+    "Min_pH": 4.08,
+    "Max_pH": 6.04
+  },
+  {
+    "Name": "La Petite Robe Noire Eau De Toilette",
+    "Brand": "Guerlain",
+    "Launched": 2013,
+    "Gender": "Feminine",
+    "Perfumer": "Thierry Wasser",
+    "Notes": "Rose / Jasmine / Orange blossom",
+    "Min_pH": 4.92,
+    "Max_pH": 6.56
+  },
+  {
+    "Name": "Amazone (original)",
+    "Brand": "Hermès",
+    "Launched": 1974,
+    "Gender": "Feminine",
+    "Perfumer": "",
+    "Notes": "Bergamot / Geranium / Cassie / Hyacinth",
+    "Min_pH": 5.43,
+    "Max_pH": 6.16
+  },
+  {
+    "Name": "Bel Ami",
+    "Brand": "Hermès",
+    "Launched": 1986,
+    "Gender": "Masculine",
+    "Perfumer": "",
+    "Notes": "Lemon",
+    "Min_pH": 5.07,
+    "Max_pH": 6.47
+  },
+  {
+    "Name": "Eau d'Orange Verte",
+    "Brand": "Hermès",
+    "Launched": 1979,
+    "Gender": "Unisex",
+    "Perfumer": "",
+    "Notes": "Lemon / Mandarin",
+    "Min_pH": 5.04,
+    "Max_pH": 6.66
+  },
+  {
+    "Name": "Équipage",
+    "Brand": "Hermès",
+    "Launched": 1970,
+    "Gender": "Masculine",
+    "Perfumer": "Guy Robert",
+    "Notes": "Rosewood / Bergamot / Lily of the Valley",
+    "Min_pH": 5.33,
+    "Max_pH": 6.23
+  },
+  {
+    "Name": "Rocabar",
+    "Brand": "Hermès",
+    "Launched": 1998,
+    "Gender": "Masculine",
+    "Perfumer": "Bernard Bourgeois",
+    "Notes": "Juniper Berry / Cedar Needles / Lavender / Nutmeg / Cinnamon",
+    "Min_pH": 5.48,
+    "Max_pH": 6.78
+  },
+  {
+    "Name": "Eau des Merveilles",
+    "Brand": "Hermès",
+    "Launched": 2004,
+    "Gender": "Feminine",
+    "Perfumer": "Ralf Schwieger / Nathalie Feisthauer",
+    "Notes": "Vetiver / Oak / Cedar",
+    "Min_pH": 5.13,
+    "Max_pH": 6.56
+  },
+  {
+    "Name": "Un Jardin sur le  Nil",
+    "Brand": "Hermès",
+    "Launched": 2005,
+    "Gender": "Unisex",
+    "Perfumer": "Jean-Claude Ellena",
+    "Notes": "Green Mango / Grapefruit",
+    "Min_pH": 4.03,
+    "Max_pH": 6.16
+  },
+  {
+    "Name": "Terre d'Hermès Parfum",
+    "Brand": "Hermès",
+    "Launched": 2009,
+    "Gender": "Masculine",
+    "Perfumer": "Jean-Claude Ellena",
+    "Notes": "Grapefruit / Orange / Shiso",
+    "Min_pH": 4.38,
+    "Max_pH": 6.59
+  },
+  {
+    "Name": "Eau Claire des Merveilles",
+    "Brand": "Hermès",
+    "Launched": 2010,
+    "Gender": "Feminine",
+    "Perfumer": "Jean-Claude Ellena",
+    "Notes": "Citrus / Aldehydes",
+    "Min_pH": 4.36,
+    "Max_pH": 6.86
+  },
+  {
+    "Name": "Hermèssence Santal Massoïa",
+    "Brand": "Hermès",
+    "Launched": 2011,
+    "Gender": "Unisex",
+    "Perfumer": "Jean-Claude Ellena",
+    "Notes": "Green Fig",
+    "Min_pH": 4.32,
+    "Max_pH": 6.33
+  },
+  {
+    "Name": "Eau des Merveilles Au Bal des Etoiles",
+    "Brand": "Hermès",
+    "Launched": 2012,
+    "Gender": "Feminine",
+    "Perfumer": "Jean-Claude Ellena",
+    "Notes": "Bitter orange",
+    "Min_pH": 5.41,
+    "Max_pH": 6.95
+  },
+  {
+    "Name": "Eau de Mandarine Ambrée",
+    "Brand": "Hermès",
+    "Launched": 2013,
+    "Gender": "Unisex",
+    "Perfumer": "Jean-Claude Ellena",
+    "Notes": "Mandarin",
+    "Min_pH": 4.88,
+    "Max_pH": 6.05
+  },
+  {
+    "Name": "Joy",
+    "Brand": "Jean Patou",
+    "Launched": 1930,
+    "Gender": "Feminine",
+    "Perfumer": "Henri Alméras",
+    "Notes": "Aldehydes / Peach / Leafy Green",
+    "Min_pH": 4.64,
+    "Max_pH": 5.65
+  },
+  {
+    "Name": "Enjoy",
+    "Brand": "Jean Patou",
+    "Launched": 2003,
+    "Gender": "Feminine",
+    "Perfumer": "Jean-Michel Duriez",
+    "Notes": "Cassis / Green Banana / Orange / Bergamot / Pear / Mandarin",
+    "Min_pH": 5.47,
+    "Max_pH": 6.82
+  },
+  {
+    "Name": "Patou pour Homme",
+    "Brand": "Jean Patou",
+    "Launched": 1980,
+    "Gender": "Masculine",
+    "Perfumer": "Jean Kerleo",
+    "Notes": "Hot Pepper / Lavender / Tarragon / Black Pepper / Bergamot / Galbanum",
+    "Min_pH": 4.06,
+    "Max_pH": 6.93
+  },
+  {
+    "Name": "Voyageur",
+    "Brand": "Jean Patou",
+    "Launched": 1994,
+    "Gender": "Masculine",
+    "Perfumer": "Jean Kerleo",
+    "Notes": "Grapefruit / Orange",
+    "Min_pH": 5.32,
+    "Max_pH": 6.57
+  },
+  {
+    "Name": "Sira des Indes",
+    "Brand": "Jean Patou",
+    "Launched": 2006,
+    "Gender": "Feminine",
+    "Perfumer": "Jean-Michel Duriez",
+    "Notes": "Banana accords / Bergamot / Pear / Pink berries / Cardamom",
+    "Min_pH": 4.92,
+    "Max_pH": 5.74
+  },
+  {
+    "Name": "Eau de Patou pour Homme",
+    "Brand": "Jean Patou",
+    "Launched": 1976,
+    "Gender": "Masculine",
+    "Perfumer": "Jean Kerleo",
+    "Notes": "Petitgrain / Orange / Sicilian lemon / Lime",
+    "Min_pH": 5.28,
+    "Max_pH": 6.12
+  },
+  {
+    "Name": "Clair de Musc",
+    "Brand": "Serge Lutens Les Salons du Palais Royal Shiseido",
+    "Launched": 2003,
+    "Gender": "Feminine",
+    "Perfumer": "Christopher Sheldrake",
+    "Notes": "Musk / Bergamot / Neroli / Tuscan iris",
+    "Min_pH": 4.86,
+    "Max_pH": 6.03
+  },
+  {
+    "Name": "Daim Blond",
+    "Brand": "Serge Lutens Les Salons du Palais Royal Shiseido",
+    "Launched": 2004,
+    "Gender": "Unisex",
+    "Perfumer": "Christopher Sheldrake",
+    "Notes": "Hawthorn / Cardamom",
+    "Min_pH": 4.36,
+    "Max_pH": 6.9
+  },
+  {
+    "Name": "Chêne",
+    "Brand": "Serge Lutens Les Salons du Palais Royal Shiseido",
+    "Launched": 2004,
+    "Gender": "Unisex",
+    "Perfumer": "Christopher Sheldrake",
+    "Notes": "Sap notes / Cedar Crystals / Black Thyme",
+    "Min_pH": 5.48,
+    "Max_pH": 5.96
+  },
+  {
+    "Name": "Chypre Rouge",
+    "Brand": "Serge Lutens Les Salons du Palais Royal Shiseido",
+    "Launched": 2006,
+    "Gender": "Unisex",
+    "Perfumer": "Christopher Sheldrake",
+    "Notes": "Thyme / Pine needles",
+    "Min_pH": 5.06,
+    "Max_pH": 5.87
+  },
+  {
+    "Name": "Santal Majuscule",
+    "Brand": "Serge Lutens Les Salons du Palais Royal Shiseido",
+    "Launched": 2012,
+    "Gender": "Unisex",
+    "Perfumer": "",
+    "Notes": "Rose",
+    "Min_pH": 4.91,
+    "Max_pH": 6.16
+  },
+  {
+    "Name": "Opium",
+    "Brand": "Yves Saint Laurent",
+    "Launched": 1977,
+    "Gender": "Feminine",
+    "Perfumer": "Jean-Louis Sieuzac",
+    "Notes": "Mandarin orange / Bergamot / Lily of the valley",
+    "Min_pH": 5.32,
+    "Max_pH": 5.93
+  },
+  {
+    "Name": "Baby Doll Paris",
+    "Brand": "Yves Saint Laurent",
+    "Launched": 1999,
+    "Gender": "Feminine",
+    "Perfumer": "Ralf Schwieger",
+    "Notes": "Grapefruit / Redcurrant / Rhubarb",
+    "Min_pH": 4.13,
+    "Max_pH": 6.4
+  },
+  {
+    "Name": "Nu Eau de Parfum",
+    "Brand": "Yves Saint Laurent",
+    "Launched": 2001,
+    "Gender": "Feminine",
+    "Perfumer": "Jacques Cavallier",
+    "Notes": "Bergamot",
+    "Min_pH": 4.24,
+    "Max_pH": 5.66
+  },
+  {
+    "Name": "Nu Eau de Toilette",
+    "Brand": "Yves Saint Laurent",
+    "Launched": 2002,
+    "Gender": "Feminine",
+    "Perfumer": "Jacques Cavallier",
+    "Notes": "Bergamot / Coriander",
+    "Min_pH": 4.68,
+    "Max_pH": 5.58
+  },
+  {
+    "Name": "Paris Premières Roses",
+    "Brand": "Yves Saint Laurent",
+    "Launched": 2003,
+    "Gender": "Feminine",
+    "Perfumer": "Laurent Bruyere",
+    "Notes": "Alba Rose Buds / Orange Blossom / Violet",
+    "Min_pH": 4.94,
+    "Max_pH": 5.56
+  },
+  {
+    "Name": "Body Kouros",
+    "Brand": "Yves Saint Laurent",
+    "Launched": 2000,
+    "Gender": "Masculine",
+    "Perfumer": "Annick Menardo",
+    "Notes": "Incense / Eucalyptus.",
+    "Min_pH": 5.42,
+    "Max_pH": 5.53
+  },
+  {
+    "Name": "Jazz",
+    "Brand": "Yves Saint Laurent",
+    "Launched": 1988,
+    "Gender": "Masculine",
+    "Perfumer": "Jean-François Latty",
+    "Notes": "Artemisia / Lavender / Bergamot",
+    "Min_pH": 4.55,
+    "Max_pH": 5.61
+  },
+  {
+    "Name": "Jazz Prestige",
+    "Brand": "Yves Saint Laurent",
+    "Launched": 1993,
+    "Gender": "Masculine",
+    "Perfumer": "",
+    "Notes": "Bergamot / Mint",
+    "Min_pH": 5.5,
+    "Max_pH": 5.97
+  },
+  {
+    "Name": "Kouros",
+    "Brand": "Yves Saint Laurent",
+    "Launched": 1981,
+    "Gender": "Masculine",
+    "Perfumer": "Pierre Bourdon",
+    "Notes": "Clove",
+    "Min_pH": 4.24,
+    "Max_pH": 6.38
+  },
+  {
+    "Name": "Kouros Fraîcheur",
+    "Brand": "Yves Saint Laurent",
+    "Launched": 1993,
+    "Gender": "Masculine",
+    "Perfumer": "",
+    "Notes": "Bergamot",
+    "Min_pH": 4.37,
+    "Max_pH": 5.98
+  },
+  {
+    "Name": "Live Jazz",
+    "Brand": "Yves Saint Laurent",
+    "Launched": 1998,
+    "Gender": "Masculine",
+    "Perfumer": "Pierre Bourdon",
+    "Notes": "Bitter Lemon Peel / Grapefruit / Iced Mint.",
+    "Min_pH": 4.35,
+    "Max_pH": 5.81
+  },
+  {
+    "Name": "Opium pour Homme",
+    "Brand": "Yves Saint Laurent",
+    "Launched": 1995,
+    "Gender": "Masculine",
+    "Perfumer": "Jacques Cavallier",
+    "Notes": "Star Anise / Blackcurrant",
+    "Min_pH": 5.24,
+    "Max_pH": 5.9
+  },
+  {
+    "Name": "YSL pour Homme",
+    "Brand": "Yves Saint Laurent",
+    "Launched": 1971,
+    "Gender": "Masculine",
+    "Perfumer": "",
+    "Notes": "Lemon",
+    "Min_pH": 4.66,
+    "Max_pH": 5.61
+  },
+  {
+    "Name": "M7",
+    "Brand": "Yves Saint Laurent",
+    "Launched": 2002,
+    "Gender": "Masculine",
+    "Perfumer": "Alberto Morillas / Jacques Cavallier",
+    "Notes": "Bergamot / Mandarin / Rosemary",
+    "Min_pH": 5.18,
+    "Max_pH": 6.91
+  },
+  {
+    "Name": "Kouros Cologne Sport",
+    "Brand": "Yves Saint Laurent",
+    "Launched": 2003,
+    "Gender": "Masculine",
+    "Perfumer": "",
+    "Notes": "Frozen Cedrat / Bergamot / Tangerine / Citrus Notes",
+    "Min_pH": 4.49,
+    "Max_pH": 5.76
+  },
+  {
+    "Name": "Rive Gauche pour Homme",
+    "Brand": "Yves Saint Laurent",
+    "Launched": 2003,
+    "Gender": "Masculine",
+    "Perfumer": "Jacques Cavallier",
+    "Notes": "Bergamot / Star Anise / Rosemary",
+    "Min_pH": 4.6,
+    "Max_pH": 5.53
+  },
+  {
+    "Name": "Cinéma",
+    "Brand": "Yves Saint Laurent",
+    "Launched": 2004,
+    "Gender": "Feminine",
+    "Perfumer": "Jacques Cavallier",
+    "Notes": "Clementine / Almond Blossom / Cyclamen",
+    "Min_pH": 5.28,
+    "Max_pH": 6.26
+  },
+  {
+    "Name": "Opium Fleur de Shanghai",
+    "Brand": "Yves Saint Laurent",
+    "Launched": 2005,
+    "Gender": "Feminine",
+    "Perfumer": "",
+    "Notes": "Mandarin Orange",
+    "Min_pH": 4.4,
+    "Max_pH": 5.97
+  },
+  {
+    "Name": "Paris Roses Enchantées",
+    "Brand": "Yves Saint Laurent",
+    "Launched": 2005,
+    "Gender": "Feminine",
+    "Perfumer": "",
+    "Notes": "Garden Roses / Orange Blossom / Violets",
+    "Min_pH": 4.28,
+    "Max_pH": 6.29
+  },
+  {
+    "Name": "Paris Roses des Vergers Springtime",
+    "Brand": "Yves Saint Laurent",
+    "Launched": 2006,
+    "Gender": "Feminine",
+    "Perfumer": "",
+    "Notes": "Cherry Blossom / Cyclamen / Black Currant Leaf",
+    "Min_pH": 5.42,
+    "Max_pH": 5.62
+  },
+  {
+    "Name": "Elle",
+    "Brand": "Yves Saint Laurent",
+    "Launched": 2007,
+    "Gender": "Feminine",
+    "Perfumer": "Jacques Cavallier / Olivier Cresp",
+    "Notes": "Lychee / Citron / Peony",
+    "Min_pH": 4.35,
+    "Max_pH": 6.58
+  },
+  {
+    "Name": "Opium pour Homme Poésie de Chine Eau d'Orient",
+    "Brand": "Yves Saint Laurent",
+    "Launched": 2008,
+    "Gender": "Masculine",
+    "Perfumer": "",
+    "Notes": "Grapefruit / Bergamot / Star anise",
+    "Min_pH": 4.97,
+    "Max_pH": 6.36
+  },
+  {
+    "Name": "Baby Doll Honeymoon",
+    "Brand": "Yves Saint Laurent",
+    "Launched": 2009,
+    "Gender": "Feminine",
+    "Perfumer": "",
+    "Notes": "Passion fruit / Redcurrant / Rhubarb",
+    "Min_pH": 4.24,
+    "Max_pH": 6.21
+  },
+  {
+    "Name": "Parisienne",
+    "Brand": "Yves Saint Laurent",
+    "Launched": 2009,
+    "Gender": "Feminine",
+    "Perfumer": "",
+    "Notes": "Cranberry / Blackberry",
+    "Min_pH": 5.13,
+    "Max_pH": 6.65
+  },
+  {
+    "Name": "Elle Shocking",
+    "Brand": "Yves Saint Laurent",
+    "Launched": 2007,
+    "Gender": "Feminine",
+    "Perfumer": "",
+    "Notes": "Mandarin / Ginger / Peony / Freesia / Jasmine",
+    "Min_pH": 4.49,
+    "Max_pH": 6.27
+  },
+  {
+    "Name": "Parisienne L'Essentiel",
+    "Brand": "Yves Saint Laurent",
+    "Launched": 2011,
+    "Gender": "Feminine",
+    "Perfumer": "",
+    "Notes": "Vinyl accord / Pink peppercorn / Blackberry",
+    "Min_pH": 4.73,
+    "Max_pH": 5.72
+  },
+  {
+    "Name": "L'Homme Libre",
+    "Brand": "Yves Saint Laurent",
+    "Launched": 2011,
+    "Gender": "Masculine",
+    "Perfumer": "Olivier Polge / Carlos Benaim",
+    "Notes": "Calabria Bergamot / Nutmeg / Pink Pepper",
+    "Min_pH": 4.83,
+    "Max_pH": 6.58
+  },
+  {
+    "Name": "M7 Oud Absolu",
+    "Brand": "Yves Saint Laurent",
+    "Launched": 2011,
+    "Gender": "Masculine",
+    "Perfumer": "Alberto Morillas / Jacques Cavallier",
+    "Notes": "Mandarin Orange / Mineral Notes",
+    "Min_pH": 4.08,
+    "Max_pH": 5.92
+  },
+  {
+    "Name": "La Nuit de L'Homme Le Parfum",
+    "Brand": "Yves Saint Laurent",
+    "Launched": 2010,
+    "Gender": "Masculine",
+    "Perfumer": "",
+    "Notes": "Bergamot / Anise / Pepper",
+    "Min_pH": 5.32,
+    "Max_pH": 6.82
+  },
+  {
+    "Name": "L'Homme Cologne Gingembre",
+    "Brand": "Yves Saint Laurent",
+    "Launched": 2011,
+    "Gender": "Masculine",
+    "Perfumer": "",
+    "Notes": "Calabrian bergamot / Ozone aquatic accords",
+    "Min_pH": 4.05,
+    "Max_pH": 6.31
+  },
+  {
+    "Name": "Opium Vapeurs de Parfum",
+    "Brand": "Yves Saint Laurent",
+    "Launched": 2012,
+    "Gender": "Feminine",
+    "Perfumer": "",
+    "Notes": "Mandarin / Pink pepper",
+    "Min_pH": 5.36,
+    "Max_pH": 6.55
+  },
+  {
+    "Name": "Parisienne L'Eau",
+    "Brand": "Yves Saint Laurent",
+    "Launched": 2012,
+    "Gender": "Feminine",
+    "Perfumer": "",
+    "Notes": "Rose / Green freshness / Vinyl accord",
+    "Min_pH": 5.34,
+    "Max_pH": 5.56
+  },
+  {
+    "Name": "La Nuit de L'Homme Frozen Cologne",
+    "Brand": "Yves Saint Laurent",
+    "Launched": 2012,
+    "Gender": "Masculine",
+    "Perfumer": "",
+    "Notes": "Lemon / Mandarin / Bergamot / Frozen Cocktail Accord",
+    "Min_pH": 4.96,
+    "Max_pH": 6.42
+  },
+  {
+    "Name": "Paris Premières Roses 2012",
+    "Brand": "Yves Saint Laurent",
+    "Launched": 2012,
+    "Gender": "Feminine",
+    "Perfumer": "",
+    "Notes": "Wild rose / Violet / Orange blossom",
+    "Min_pH": 4.2,
+    "Max_pH": 6.93
+  },
+  {
+    "Name": "Manifesto",
+    "Brand": "Yves Saint Laurent",
+    "Launched": 2012,
+    "Gender": "Feminine",
+    "Perfumer": "Anne Flipo / Loc Dong",
+    "Notes": "Bergamot / Cassis / Green Notes",
+    "Min_pH": 4.02,
+    "Max_pH": 5.79
+  },
+  {
+    "Name": "Elle Edition Limitée 2012",
+    "Brand": "Yves Saint Laurent",
+    "Launched": 2012,
+    "Gender": "Feminine",
+    "Perfumer": "",
+    "Notes": "Mandarin / Grapefruit / Peony",
+    "Min_pH": 5.18,
+    "Max_pH": 5.83
+  },
+  {
+    "Name": "Parisienne à l'Extrême",
+    "Brand": "Yves Saint Laurent",
+    "Launched": 2010,
+    "Gender": "Feminine",
+    "Perfumer": "",
+    "Notes": "Black elder",
+    "Min_pH": 5.48,
+    "Max_pH": 5.58
+  }
+]

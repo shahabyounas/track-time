@@ -7,7 +7,130 @@ header {
     justify-content: space-between;
 }
 
+ul {
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+#header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: antiquewhite;
+    transition: background-color 1s ease 0s;
+    box-shadow: 0px 1px 6px 7px #E7E8DE;
+}
+
+#header> :not(:first-child) {
+    padding: 0 3em;
+}
+
+#header nav ul li {
+    padding: 1em;
+}
+
+#header nav ul li:hover {
+    background-color: #ded0af;
+}
+
 img {
     width: 100%;
     height: auto;
+}
+
+.toggle-button {
+    position: absolute;
+    display: none;
+    flex-direction: column;
+    justify-content: space-between;
+    right: 1em;
+    top: 1em;
+    height: 1.5em;
+    background: transparent;
+    border: none;
+}
+
+.toggle-button span {
+    height: .25em;
+    width: 1.75em;
+    background-color: black;
+    border-radius: 1em;
+
+}
+
+#footer-urls ul {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#filter {
+    border: 2px solid ghostwhite;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    width: 90%;
+    padding: 1em;
+    margin: 1em;
+}
+
+.card {
+    padding: 2em;
+    border-radius: 0.5em;
+    width: 15em;
+    height: 20em;
+    /* height: 5em; */
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+.card img {
+    max-height: 12em;
+    width: 100%;
+}
+
+#perfume {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 3em;
+}
+
+.card p {
+    overflow: scroll;
+    height: 5em;
+}
+
+/* Responsive design - Media Queries */
+
+@media (width < 40em) {
+    .toggle-button {
+        display: flex;
+    }
+
+    #header {
+        height: 3em;
+    }
+
+    #header nav ul li {
+        display: none;
+    }
+
+    #header nav {
+        width: 100%;
+        margin-top: 1em;
+    }
+
+    #header nav ul {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    #header nav ul:active {
+        display: flex;
+    }
+
 }
